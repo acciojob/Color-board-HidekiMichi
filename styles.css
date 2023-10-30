@@ -12,7 +12,7 @@
 	background:red;
 	margin:2px;
 }
-.Square:hover{
+.square:hover{
 	background:yellow;
 	transition-duration:1s;
 }
